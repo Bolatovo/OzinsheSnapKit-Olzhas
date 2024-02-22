@@ -1,0 +1,6 @@
+framework module Pods_Ozinshe_SnapKit_Olzhas {
+  umbrella header "Pods-Ozinshe SnapKit Olzhas-umbrella.h"
+
+  export *
+  module * { export * }
+}

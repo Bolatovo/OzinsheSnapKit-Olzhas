@@ -1,0 +1,6 @@
+framework module Pods_Ozinshe_SnapKit_Olzhas_Ozinshe_SnapKit_OlzhasUITests {
+  umbrella header "Pods-Ozinshe SnapKit Olzhas-Ozinshe SnapKit OlzhasUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
